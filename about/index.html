@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link href="/favicon500.png" rel="apple-touch-icon" />
+<link href="/favicon500.png" rel="apple-touch-icon" sizes="76x76" />
+<link href="/favicon500.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="/favicon500.png" rel="apple-touch-icon" sizes="152x152" />
+<link href="/favicon500.png" rel="apple-touch-icon" sizes="180x180" />
+<link href="/favicon500.png" rel="icon" sizes="192x192" />
+<link href="/favicon500.png" rel="icon" sizes="128x128" />
+
+  <title>About</title>
+  <meta name="description" content="Personal website of Jesse Krijthe">
+
+
+  <link rel="stylesheet" href="/css/tufte.css">	
+  
+
+  <!-- Google Fonts loaded here -->
+  <link href='//fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+
+  <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
+  
+  <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script>
+    MathJax.Hub.Config({
+      extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js"],
+      jax: ["input/TeX", "output/HTML-CSS"],
+      tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+    },
+    "HTML-CSS": { availableFonts: ["TeX"],
+      styles: {".MathJax_Display": {width: "55%", "font-size": "1.4rem"}}
+      }
+    });
+    MathJax.Hub.Queue(function() {
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i=0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+    });
+  </script>
+  
+
+  <link rel="canonical" href="/about/">
+  <link rel="alternate" type="application/rss+xml" title="Jesse Krijthe" href="/feed.xml" />
+</head>
+
+  <body class="normalpost">
+    <!--- Header and nav template site-wide -->
+<header>
+    <nav class="group">
+    <a href="/" style="color: black">Jesse Krijthe</a>
+		<a href="/"><img class="badge" src="/assets/img/badge_1.png" alt="JK" style="top: -0.5em; height: 2em; width: 2em"></a>
+
+    <a href="/articles">Notes</a>
+		<a href="/papers">Papers</a>
+		<a href="https://www.github.com/jkrijthe">Code</a>
+		<a href="/cv.pdf">CV</a>
+		<a href="/about">About</a>
+	</nav>
+</header>
+
+    <article class="group">
+      <h1>About</h1>
+      <p class="subtitle"></p>
+
+
+      <p><label for="photo-jesse" class="margin-toggle">⊕</label><input type="checkbox" id="photo-jesse" class="margin-toggle" /><span class="marginnote"><img class="fullwidth" src="/assets/img/photo-small.png" /></span><br />
+As a PhD student, I work on statistical pattern recognition and machine learning. I am particularly interested in: semi-supervised learning, model selection, meta-learning and approaches to deal with missing or noisy data.</p>
+
+<p>I currently focus on studying robust methods to do semi-supervised learning, that is: supervised models that can use additional unlabeled data with the property that, with high probability, performance is better than the original supervised model.</p>
+
+<p>My research is supervised by <a href="http://www.liacs.nl/~joost/">Prof. Joost Kok</a> (LUMC) and <a href="http://prlab.tudelft.nl/users/marco-loog/">Prof. Marco Loog</a> (affiliated with the Pattern Recognition Laboratory of the Delft University of Technology) and funded by the <a href="http://commit-nl.nl/">COMMIT research program</a>. I am affiliated with the Pattern Recognition &amp; Bioinformatics group of Delft University of Technology and the Department of Molecular Epidemiology of the Leiden University Medical Center.</p>
+
+<image src="/assets/img/COMMIT.jpg" width="20%" alt="COMMIT" />
+
+<image src="/assets/img/TUlogo.png" width="20%" alt="TU Delft" />
+
+<image src="/assets/img/LUMClogo.png" width="20%" alt="LUMC" />
+
+<image src="/assets/img/MolEpilogo.png" width="20%" alt="Molecular Epidemiology" />
+
+<p><br /></p>
+
+    </article>
+    <span class="print-footer">About - Jesse H. Krijthe</span>
+    <footer>
+  <ul class="footer-links">
+    <li><a href="mailto:hate@spam.net"><span class="icon-mail"></span></a></li>
+    
+      <li>
+        <a href="//www.twitter.com/jessekrijthe"><span class="icon-twitter"></span></a>
+      </li>
+    
+      <li>
+        <a href="//github.com/jkrijthe"><span class="icon-github"></span></a>
+      </li>
+    
+      <li>
+        <a href="/feed.xml"><span class="icon-feed"></span></a>
+      </li>
+    
+  </ul>
+<div class="credits">
+<span>&copy; 2015 &nbsp;&nbsp;JESSE H. KRIJTHE</span></br> <br>
+<span>This site created with the <a href="//github.com/clayh53/tufte-jekyll">Tufte theme</a> in <a href="//jekyllrb.com">Jekyll</a>.</span>
+</div>
+</footer>
+
+  </body>
+</html>
