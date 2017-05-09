@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+<link href="http://www.jessekrijthe.com/favicon500.png" rel="apple-touch-icon" />
+<link href="http://www.jessekrijthe.com/favicon500.png" rel="apple-touch-icon" sizes="76x76" />
+<link href="http://www.jessekrijthe.com/favicon500.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="http://www.jessekrijthe.com/favicon500.png" rel="apple-touch-icon" sizes="152x152" />
+<link href="http://www.jessekrijthe.com/favicon500.png" rel="apple-touch-icon" sizes="180x180" />
+<link href="http://www.jessekrijthe.com/favicon500.png" rel="icon" sizes="192x192" />
+<link href="http://www.jessekrijthe.com/favicon500.png" rel="icon" sizes="128x128" />
+
+<title>Eurovision Winning Probabilities &middot; Jesse Krijthe</title>
+<link rel="stylesheet" href="http://www.jessekrijthe.com/css/tufte.css">
+</head>
+
+<body class="normalpost">
+  <div class="container">
+    <header>
+    <nav class="group">
+    <span></span><a href="/" style="color: black">Jesse Krijthe</a>
+		<a href="/"><img class="badge" src="/img/badge_1.png" alt="JK" style="top: -0.5em; height: 2em; width: 2em"></a></span>
+    <a href="/articles">Notes</a>
+		<a href="/papers">Papers</a>
+		<a href="https://github.com/jkrijthe">Code</a>
+		<a href="/cv.pdf">CV</a>
+		<a href="/about">About</a>
+	</nav>
+</header>
+    <div class="content">
+      <article class="group">
+          <h1>Eurovision Winning Probabilities</h1>
+          <p class="subtitle">May 9, 2017   &middot; Reading Time: 2 minutes</p>
+          <div class="post-content">
+            <p>This week marks the <a href="https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2017">62nd edition of the Eurovision Song Contest</a>: an annual event where countries from across Europe and beyond (Australia is competing as well) come together to perform 3 minute pop songs.</p>
+<p><a href="https://www.kaggle.com/c/Eurovision2010">Predicting the outcome</a> of the contest poses an interesting statistical problem since the rules of the comeptition have been relatively stable over the years, so there is some data to base future predictions on, yet there is only a single contest every year, making it easy to overtrain a model on the limited data available.</p>
+<p>Perhaps the most commonly reported predictions by the media are those implied by the odds set by bookmakers. In this note, I want to explore what probabilities the bookmakers’ odds correspond to for this year’s competition, as well as how well these probabilities predicted the winner in recent years.</p>
+<p>Let’s start with the most important part, this year’s probabilities:</p>
+<p><img src="/articles/eurovision-betting-prob_files/figure-html/unnamed-chunk-1-1.png" width="576" /></p>
+<p>Italy is the clear favourite. As we’ll see below, the markets are relatively confident in this year’s favourite actually winning, compared to the previous four years.</p>
+<p>A short note on the methodology: I converted the decimal odds reported by the bookmakers to probabilities and then divided these by the total probability assigned by a bookie to all the countries combined. The total probability is bigger than one, which reflect the advantage the bookmakers have over their customers. The division by this total is a crude way to correct for this advantage. The probabilities reported here correspond to the median probability of all the bookmakers I had data for.</p>
+<p>These are the probabilities (close to) the monday before the competition in previous years:</p>
+<p><img src="/articles/eurovision-betting-prob_files/figure-html/unnamed-chunk-2-1.png" width="350px" /><img src="/articles/eurovision-betting-prob_files/figure-html/unnamed-chunk-2-2.png" width="350px" /><img src="/articles/eurovision-betting-prob_files/figure-html/unnamed-chunk-2-3.png" width="350px" /><img src="/articles/eurovision-betting-prob_files/figure-html/unnamed-chunk-2-4.png" width="350px" /></p>
+<p>In 2014 the bookmakers were clearly off, although it is hard to say whether this is bad, given the sample of only 4 years. In the other three years, the winner was assigned a reasonably high probability. It is interesting how skewed towards Italy the probabilities are this year. In previous years, there was usually a second country with a reasonably high probability. Whether this reflects a clear preference by the European voters, we’ll have to see during the final this Saturday.</p>
+
+          </div>
+        </article>
+    </div>
+    <footer>
+  <div class="credits">
+    <span style="color: grey">
+      <a href="mailto:j.krijthe@cs.ru.nl">mail</a> - 
+      <a href="https://www.twitter.com/jessekrijthe">twitter</a> - 
+      <a href="https://github.com/jkrijthe">github</a> - 
+      <a href="https://scholar.google.nl/citations?user=Rm7OUa0AAAAJ">scholar</a> - 
+      <a href="http://www.jessekrijthe.com/index.xml">rss</a>
+      </span></br> </br>
+    <span style="letter-spacing: 0.05em;">
+      &copy; 2017
+      &nbsp;&nbsp;JESSE KRIJTHE
+    </span></br> </br>
+    <span>
+      This site was created using the <a href="https://github.com/clayh53/tufte-jekyll">Tufte theme</a> and <a href="http://gohugo.io">Hugo</a>.
+    </span>
+  </div>
+</footer>
+  </div>
+</body>
+
+</html>
