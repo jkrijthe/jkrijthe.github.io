@@ -8,24 +8,8 @@
     <language>en-us</language>
     <managingEditor>jkrijthe@gmail.com (Jesse Krijthe)</managingEditor>
     <webMaster>jkrijthe@gmail.com (Jesse Krijthe)</webMaster>
-    <lastBuildDate>Sun, 31 Dec 2017 17:09:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 May 2017 17:09:13 +0000</lastBuildDate>
     <atom:link href="/articles/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Error Statistics and Severity</title>
-      <link>http://www.jessekrijthe.com/articles/error-statistics-severity.md/</link>
-      <pubDate>Sun, 31 Dec 2017 17:09:13 +0000</pubDate>
-      <author>jkrijthe@gmail.com (Jesse Krijthe)</author>
-      <guid>http://www.jessekrijthe.com/articles/error-statistics-severity.md/</guid>
-      <description>&lt;div id=&#34;behavioural-vs.inferential&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Behavioural vs. Inferential&lt;/h2&gt;
-&lt;p&gt;Difficult time understanding this difference&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;severe-testing&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Severe testing&lt;/h2&gt;
-&lt;/div&gt;
-</description>
-    </item>
     
     <item>
       <title>Eurovision Winning Probabilities</title>
