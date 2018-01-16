@@ -8,8 +8,24 @@
     <language>en-us</language>
     <managingEditor>jkrijthe@gmail.com (Jesse Krijthe)</managingEditor>
     <webMaster>jkrijthe@gmail.com (Jesse Krijthe)</webMaster>
-    <lastBuildDate>Tue, 09 May 2017 17:09:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Dec 2017 17:09:13 +0000</lastBuildDate>
     <atom:link href="/articles/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Error Statistics and Severity</title>
+      <link>http://www.jessekrijthe.com/articles/error-statistics-severity.md/</link>
+      <pubDate>Sun, 31 Dec 2017 17:09:13 +0000</pubDate>
+      <author>jkrijthe@gmail.com (Jesse Krijthe)</author>
+      <guid>http://www.jessekrijthe.com/articles/error-statistics-severity.md/</guid>
+      <description>&lt;div id=&#34;behavioural-vs.inferential&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Behavioural vs. Inferential&lt;/h2&gt;
+&lt;p&gt;Difficult time understanding this difference&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;severe-testing&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Severe testing&lt;/h2&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Eurovision Winning Probabilities</title>
@@ -74,6 +90,41 @@ This seems to tackle the important problem exact quantification of uncertainty i
 &lt;p&gt;&lt;a href=&#34;http://jmlr.org/proceedings/papers/v37/hugginsb15.pdf&#34;&gt;Risk and Regret of Hierarchical Bayesian Learners&lt;/a&gt;&lt;br/&gt;
 &lt;em&gt;Jonathan H. Huggins &amp;amp; Joshua B. Tenenbaum&lt;/em&gt;&lt;br/&gt;
 Again, an interesting analysis of an important problem, although it will take me some more time to study the actual result.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.jessekrijthe.com/articles/review-how-to-lie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>jkrijthe@gmail.com (Jesse Krijthe)</author>
+      <guid>http://www.jessekrijthe.com/articles/review-how-to-lie/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Statistical thinking will one day be as necessary for efficient citizenship as the ability to read and write.
+&lt;a href=&#34;https://www.quora.com/What-is-the-source-of-the-H-G-Wells-quote-Statistical-thinking-will-one-day-be-as-necessary-for-efficient-citizenship-as-the-ability-to-read-and-write&#34;&gt;Wilks after H.G. Wells&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been reading.
+The examples are slightly dated, yet the they are fun and relevant examples to discuss the authors main points, and are as relevant today&lt;/p&gt;
+
+&lt;p&gt;what the main questions are to ask yourself to avoid the pitfalls discussed in the book:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;What biases are introduced by the sampling procedure? What exact population am I sampling from?&lt;/li&gt;
+&lt;li&gt;What has not been reported? Multiple testing?&lt;/li&gt;
+&lt;li&gt;How large is the variance?&lt;/li&gt;
+&lt;li&gt;Are two different numbers actually statistically and practially significantly different?&lt;/li&gt;
+&lt;li&gt;In what way might the graph distort the representation of the effect?&lt;/li&gt;
+&lt;li&gt;Does the size depicted correspond to the area or to a single dimension in the picture?&lt;/li&gt;
+&lt;li&gt;Is what I measure directly related to what I want to measure?&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I like this quote:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;It is sometimes a substantial service simply to point out that a subject in controversy is not as open-and-shut as it has been made to seem.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     

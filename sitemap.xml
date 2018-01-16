@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.jessekrijthe.com/articles/error-statistics-severity.md/</loc>
+    <lastmod>2017-12-31T17:09:13+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.jessekrijthe.com/articles/eurovision-betting-prob/</loc>
     <lastmod>2017-05-09T17:09:13+00:00</lastmod>
   </url>
@@ -13,12 +18,16 @@
   </url>
   
   <url>
+    <loc>http://www.jessekrijthe.com/articles/review-how-to-lie/</loc>
+  </url>
+  
+  <url>
     <loc>http://www.jessekrijthe.com/about/</loc>
   </url>
   
   <url>
     <loc>http://www.jessekrijthe.com/articles/</loc>
-    <lastmod>2017-05-09T17:09:13+00:00</lastmod>
+    <lastmod>2017-12-31T17:09:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -35,7 +44,7 @@
   
   <url>
     <loc>http://www.jessekrijthe.com/</loc>
-    <lastmod>2017-05-09T17:09:13+00:00</lastmod>
+    <lastmod>2017-12-31T17:09:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
