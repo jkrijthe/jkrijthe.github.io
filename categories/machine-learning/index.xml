@@ -8,8 +8,41 @@
     <language>en-us</language>
     <managingEditor>jkrijthe@gmail.com (Jesse Krijthe)</managingEditor>
     <webMaster>jkrijthe@gmail.com (Jesse Krijthe)</webMaster>
-    <lastBuildDate>Wed, 05 Aug 2015 13:09:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/categories/machine-learning/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PhD Defense</title>
+      <link>http://www.jessekrijthe.com/articles/phd-defense/</link>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      <author>jkrijthe@gmail.com (Jesse Krijthe)</author>
+      <guid>http://www.jessekrijthe.com/articles/phd-defense/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://www.jessekrijthe.com/img/thesis-stack.jpg&#34; width=&#34;400&#34; class=&#34;sidenote&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I defended my PhD thesis! The thesis &amp;ldquo;Robust Semi-supervised Learning: Projections, Limits &amp;amp; Constraints&amp;rdquo; is about exploring the limits of the guarantees one can give for whether a semi-supervised learner will outperform its supervised counterpart. In other words: the limits of the usefulness of additional unlabeled data in a supervised learning setting.&lt;/p&gt;
+
+&lt;p&gt;While it seems to make sense you would want such guarantees before using semi-supervised methods to incorporate unlabeled data into the learning process, we show that without additional assumptions, for many supervised learners, semi-supervised alternatives with strict non-degradation guarantees can not be constructed. Perhaps surprisingly, however, for some supervised learners/loss functions, semi-supervised methods can be constructed that give strict non-degradation guarantees. For details of how these concepts (guarantees, performance) were defined, please see the thesis itself. After thinking about this topic for such a long time, I&amp;rsquo;m quite proud of how the thesis turned out. You can find it &lt;a href=&#34;http://www.jessekrijthe.com/thesis.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;(As an aside: the thesis is typeset using R&amp;rsquo;s knitr package and Latex. You can find the source code to generate figures and text &lt;a href=&#34;https://github.com/jkrijthe/RobustSSL&#34;&gt;here&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;As part of the thesis defense, at most Dutch universities, you are expected to include a set of propositions, some pertaining to the core claims made in the thesis, some about your field of research and some about science/society in general. These were my propositions included in the thesis:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Semi-supervised learning without additional assumptions, beyond those inherent in the supervised classifier, is possible.&lt;/li&gt;
+&lt;li&gt;One can guarantee performance improvement of some semi-supervised learners over their supervised counterparts.&lt;/li&gt;
+&lt;li&gt;Truly safe semi-supervised learning is impossible for a large class of commonly used classifiers.&lt;/li&gt;
+&lt;li&gt;Considering a classification method&amp;rsquo;s performance in terms of the actual loss it minimizes at train time gives useful insights.&lt;/li&gt;
+&lt;li&gt;There is a limit to the usefulness of asymptotic results.&lt;/li&gt;
+&lt;li&gt;Rather than hoping for practice to better correspond to current statistical methods, we need new methods that better match the adaptive way statistics is used in practice.&lt;/li&gt;
+&lt;li&gt;The focus in statistical practice on hypothesis testing is feeding society&amp;rsquo;s appetite to clear cut answers in a reality where none are available.&lt;/li&gt;
+&lt;li&gt;Data is uninteresting without a model, while a model can be interesting without data.&lt;/li&gt;
+&lt;li&gt;Publishers have become a dispensible part of scientific communication.&lt;/li&gt;
+&lt;li&gt;Our unwillingness or inability to define our actual goals, combined with a need for certainty, lead to surrogate measures (e.g. GDP, H-index, wealth, `likes&amp;rsquo; on social media) that are actively harmful.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I again want to thank my opposition committee: Ludmila Kuncheva, Peter Grunwald, Jelle Goeman, Erik van den Akker and Tom Heskes for the insightful questions that made for a super enjoyable discussion.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Favourite Work at ICML 2015</title>

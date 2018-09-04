@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.jessekrijthe.com/articles/peirce-in-the-garden/</loc>
+    <lastmod>2018-08-31T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.jessekrijthe.com/articles/phd-defense/</loc>
+    <lastmod>2018-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.jessekrijthe.com/articles/hacking-inductive-logic/</loc>
+    <lastmod>2017-09-06T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.jessekrijthe.com/articles/eurovision-betting-prob/</loc>
     <lastmod>2017-05-09T17:09:13+00:00</lastmod>
   </url>
@@ -18,7 +33,7 @@
   
   <url>
     <loc>http://www.jessekrijthe.com/articles/</loc>
-    <lastmod>2017-05-09T17:09:13+00:00</lastmod>
+    <lastmod>2018-08-31T20:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -35,18 +50,24 @@
   
   <url>
     <loc>http://www.jessekrijthe.com/</loc>
-    <lastmod>2017-05-09T17:09:13+00:00</lastmod>
+    <lastmod>2018-08-31T20:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.jessekrijthe.com/categories/machine-learning/</loc>
-    <lastmod>2015-08-05T13:09:13+00:00</lastmod>
+    <lastmod>2018-01-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.jessekrijthe.com/papers/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.jessekrijthe.com/categories/philosophy/</loc>
+    <lastmod>2018-08-31T20:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>

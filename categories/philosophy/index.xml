@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jesse Krijthe</title>
-    <link>http://www.jessekrijthe.com/articles/</link>
+    <link>http://www.jessekrijthe.com/categories/philosophy/</link>
     <description>Recent content on Jesse Krijthe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>jkrijthe@gmail.com (Jesse Krijthe)</managingEditor>
     <webMaster>jkrijthe@gmail.com (Jesse Krijthe)</webMaster>
     <lastBuildDate>Fri, 31 Aug 2018 20:00:00 +0000</lastBuildDate>
-    <atom:link href="/articles/" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/philosophy/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Peirce in the Garden</title>
@@ -40,39 +40,6 @@
 
 &lt;p&gt;Gelman, A., &amp;amp; Loken, E. (2013). The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking” and the research hypothesis, 1–17. &lt;a href=&#34;https://doi.org/10.1037/a0037714&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>PhD Defense</title>
-      <link>http://www.jessekrijthe.com/articles/phd-defense/</link>
-      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
-      <author>jkrijthe@gmail.com (Jesse Krijthe)</author>
-      <guid>http://www.jessekrijthe.com/articles/phd-defense/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://www.jessekrijthe.com/img/thesis-stack.jpg&#34; width=&#34;400&#34; class=&#34;sidenote&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I defended my PhD thesis! The thesis &amp;ldquo;Robust Semi-supervised Learning: Projections, Limits &amp;amp; Constraints&amp;rdquo; is about exploring the limits of the guarantees one can give for whether a semi-supervised learner will outperform its supervised counterpart. In other words: the limits of the usefulness of additional unlabeled data in a supervised learning setting.&lt;/p&gt;
-
-&lt;p&gt;While it seems to make sense you would want such guarantees before using semi-supervised methods to incorporate unlabeled data into the learning process, we show that without additional assumptions, for many supervised learners, semi-supervised alternatives with strict non-degradation guarantees can not be constructed. Perhaps surprisingly, however, for some supervised learners/loss functions, semi-supervised methods can be constructed that give strict non-degradation guarantees. For details of how these concepts (guarantees, performance) were defined, please see the thesis itself. After thinking about this topic for such a long time, I&amp;rsquo;m quite proud of how the thesis turned out. You can find it &lt;a href=&#34;http://www.jessekrijthe.com/thesis.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;(As an aside: the thesis is typeset using R&amp;rsquo;s knitr package and Latex. You can find the source code to generate figures and text &lt;a href=&#34;https://github.com/jkrijthe/RobustSSL&#34;&gt;here&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;As part of the thesis defense, at most Dutch universities, you are expected to include a set of propositions, some pertaining to the core claims made in the thesis, some about your field of research and some about science/society in general. These were my propositions included in the thesis:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Semi-supervised learning without additional assumptions, beyond those inherent in the supervised classifier, is possible.&lt;/li&gt;
-&lt;li&gt;One can guarantee performance improvement of some semi-supervised learners over their supervised counterparts.&lt;/li&gt;
-&lt;li&gt;Truly safe semi-supervised learning is impossible for a large class of commonly used classifiers.&lt;/li&gt;
-&lt;li&gt;Considering a classification method&amp;rsquo;s performance in terms of the actual loss it minimizes at train time gives useful insights.&lt;/li&gt;
-&lt;li&gt;There is a limit to the usefulness of asymptotic results.&lt;/li&gt;
-&lt;li&gt;Rather than hoping for practice to better correspond to current statistical methods, we need new methods that better match the adaptive way statistics is used in practice.&lt;/li&gt;
-&lt;li&gt;The focus in statistical practice on hypothesis testing is feeding society&amp;rsquo;s appetite to clear cut answers in a reality where none are available.&lt;/li&gt;
-&lt;li&gt;Data is uninteresting without a model, while a model can be interesting without data.&lt;/li&gt;
-&lt;li&gt;Publishers have become a dispensible part of scientific communication.&lt;/li&gt;
-&lt;li&gt;Our unwillingness or inability to define our actual goals, combined with a need for certainty, lead to surrogate measures (e.g. GDP, H-index, wealth, `likes&amp;rsquo; on social media) that are actively harmful.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;I again want to thank my opposition committee: Ludmila Kuncheva, Peter Grunwald, Jelle Goeman, Erik van den Akker and Tom Heskes for the insightful questions that made for a super enjoyable discussion.&lt;/p&gt;
 </description>
     </item>
     
@@ -127,72 +94,6 @@
 &lt;p&gt;On a related note, I, as Hacking and many others, aim to be statistically eclectic: use the method and inferential framework that best fits your question of interest. Unfortunately, while that sounds nice as a statement of intent, I have seen few people offer much advice on how to actually match methods to research goals.&lt;/p&gt;
 
 &lt;p&gt;The book was an interesting gateway into thinking more about such problems.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Eurovision Winning Probabilities</title>
-      <link>http://www.jessekrijthe.com/articles/eurovision-betting-prob/</link>
-      <pubDate>Tue, 09 May 2017 17:09:13 +0000</pubDate>
-      <author>jkrijthe@gmail.com (Jesse Krijthe)</author>
-      <guid>http://www.jessekrijthe.com/articles/eurovision-betting-prob/</guid>
-      <description>&lt;p&gt;This week marks the &lt;a href=&#34;https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2017&#34;&gt;62nd edition of the Eurovision Song Contest&lt;/a&gt;: an annual event where countries from across Europe and beyond (Australia is competing as well) come together to perform 3 minute pop songs.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/c/Eurovision2010&#34;&gt;Predicting the outcome&lt;/a&gt; of the contest poses an interesting statistical problem since the rules of the comeptition have been relatively stable over the years, so there is some data to base future predictions on, yet there is only a single contest every year, making it easy to overtrain a model on the limited data available.&lt;/p&gt;
-&lt;p&gt;Perhaps the most commonly reported predictions by the media are those implied by the odds set by bookmakers. In this note, I want to explore what probabilities the bookmakers’ odds correspond to for this year’s competition, as well as how well these probabilities predicted the winner in recent years.&lt;/p&gt;
-&lt;p&gt;Let’s start with the most important part, this year’s probabilities:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.jessekrijthe.com/articles/eurovision-betting-prob_files/figure-html/current-odds-1.png&#34; width=&#34;576&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Italy is the clear favourite. As we’ll see below, the markets are relatively confident in this year’s favourite actually winning, compared to the previous four years.&lt;/p&gt;
-&lt;p&gt;A short note on the methodology: I converted the decimal odds reported by the bookmakers to probabilities and then divided these by the total probability assigned by a bookie to all the countries combined. The total probability is bigger than one, which reflect the advantage the bookmakers have over their customers. The division by this total is a crude way to correct for this advantage. The probabilities reported here correspond to the median probability of all the bookmakers I had data for.&lt;/p&gt;
-&lt;p&gt;These are the probabilities (close to) the monday before the competition in previous years:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.jessekrijthe.com/articles/eurovision-betting-prob_files/figure-html/previous-odds-1.png&#34; width=&#34;350px&#34; /&gt;&lt;img src=&#34;http://www.jessekrijthe.com/articles/eurovision-betting-prob_files/figure-html/previous-odds-2.png&#34; width=&#34;350px&#34; /&gt;&lt;img src=&#34;http://www.jessekrijthe.com/articles/eurovision-betting-prob_files/figure-html/previous-odds-3.png&#34; width=&#34;350px&#34; /&gt;&lt;img src=&#34;http://www.jessekrijthe.com/articles/eurovision-betting-prob_files/figure-html/previous-odds-4.png&#34; width=&#34;350px&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;In 2014 the bookmakers were clearly off, although it is hard to say whether this is bad, given the sample of only 4 years. In the other three years, the winner was assigned a reasonably high probability. It is interesting how skewed towards Italy the probabilities are this year. In previous years, there was usually a second country with a reasonably high probability. Whether this reflects a clear preference by the European voters, we’ll have to see during the final this Saturday.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Update after the contest:&lt;/em&gt; Portugal won, which, given the large probability placed on an Italy win by the bookmakers, does not help increase confidence in the hypothesis that these probabilities are properly calibrated.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Favourite Work at ICML 2015</title>
-      <link>http://www.jessekrijthe.com/articles/icml2015/</link>
-      <pubDate>Wed, 05 Aug 2015 13:09:13 +0000</pubDate>
-      <author>jkrijthe@gmail.com (Jesse Krijthe)</author>
-      <guid>http://www.jessekrijthe.com/articles/icml2015/</guid>
-      <description>&lt;p&gt;This post is just to remind myself of some of my favourite posters/presentations that I saw while attending ICML. I have undoubtably missed a lot of interesting stuff. If you have any particular suggestions, please let me know!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://jmlr.org/proceedings/papers/v37/betancourt15.pdf&#34;&gt;The Fundamental Incompatibility of Scalable Hamiltonian Monte Carlo and Naive Data Subsampling&lt;/a&gt;&lt;br/&gt;
-&lt;em&gt;Michael Betancourt&lt;/em&gt;&lt;br/&gt;
-I liked the topic and the kind of analysis and I especially liked his clear style of presentation. Moreover, there was quite a lively discussion about whether this incompatibility is actually a problem, or whether it focussed too much on only the bias that is introduced by naive subsampling.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://jmlr.org/proceedings/papers/v37/salimans15.pdf&#34;&gt;Markov Chain Monte Carlo and Variational Inference: Bridging the Gap&lt;/a&gt;&lt;br/&gt;
-&lt;em&gt;Tim Salimans, Diederik Kingma, Max Welling&lt;/em&gt;&lt;br/&gt;
-The presentation and poster were a bit hard for me to follow but the problem seems important.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://jmlr.org/proceedings/papers/v37/lopez-paz15.pdf&#34;&gt;Towards a Learning Theory of Cause-Effect Inference&lt;/a&gt;&lt;br/&gt;
-&lt;em&gt;David Lopez-Paz, Krikamol Muandet, Bernhard Schölkopf, Iliya Tolstikhin&lt;/em&gt;&lt;br/&gt;
-Interesting use of Maximum Mean Discrepancy in a clear analysis of an important problem.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://jmlr.org/proceedings/papers/v37/blundell15.pdf&#34;&gt;Weight Uncertainty in Neural Network&lt;/a&gt;&lt;br/&gt;
-&lt;em&gt;Charles Blundell, Julien Cornebise, Koray Kavukcuoglu, Daan Wierstra&lt;/em&gt;&lt;br/&gt;
-I have not looked into how exactly their approach is different from previous attempts at incorporating weight uncertainty, but the updates for the weight parameters seemed surprisingly simple.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://jmlr.org/proceedings/papers/v37/ramaswamy15.pdf&#34;&gt;Convex Calibrated Surrogates for Hierarchical Classification&lt;/a&gt;&lt;br/&gt;
-&lt;em&gt;Harish Ramaswamy, Ambuj Tewari, Shivani Agarwal&lt;/em&gt;&lt;br/&gt;
-I like this idea of classification calibrated losses and this seems like an interesting extension to hierarchical loss functions.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://jmlr.org/proceedings/papers/v37/narasimhana15.pdf&#34;&gt;Optimizing Non-decomposable Performance Measures: A Tale of Two Classes&lt;/a&gt;&lt;br/&gt;
-&lt;em&gt;Harikrishna Narasimhan, Purushottam Kar, Prateek Jain&lt;/em&gt;&lt;br/&gt;
-The authors consider functions of the true positive rate and true negative rate and come up with two classes of such functions and an approach to maximize them. The one class includes measures like the G-mean and the H-mean, while the other class includes the F-measure and Jaccard coefficient.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://jmlr.org/proceedings/papers/v37/jiao15.pdf&#34;&gt;The Kendall and Mallows Kernels for Permutations&lt;/a&gt;&lt;br/&gt;
-&lt;em&gt;Yunlong Jiao &amp;amp; Jean-Philippe Vert&lt;/em&gt;&lt;br/&gt;
-The authors consider the problem of learning from permutations or rankings instead of vector of real valued numbers. In particular, they construct PSD kernels based on Kendall&amp;rsquo;s coefficient and Mallows kernel in order to apply kernel methods to the problem.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://arxiv.org/pdf/1501.05427v3&#34;&gt;Enabling scalable stochastic gradient-based inference for Gaussian processes by employing the Unbiased LInear System SolvEr (ULISSE)&lt;/a&gt;&lt;br/&gt;
-&lt;em&gt;Maurizio Filippone &amp;amp; Raphael Engler&lt;/em&gt;&lt;br/&gt;
-This seems to tackle the important problem exact quantification of uncertainty in covariance parameters for gaussian processes with seemingly few constraints on the number type of covariance function.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://jmlr.org/proceedings/papers/v37/hugginsb15.pdf&#34;&gt;Risk and Regret of Hierarchical Bayesian Learners&lt;/a&gt;&lt;br/&gt;
-&lt;em&gt;Jonathan H. Huggins &amp;amp; Joshua B. Tenenbaum&lt;/em&gt;&lt;br/&gt;
-Again, an interesting analysis of an important problem, although it will take me some more time to study the actual result.&lt;/p&gt;
 </description>
     </item>
     
