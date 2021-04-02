@@ -4,7 +4,6 @@
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-
 <link href="http://www.jessekrijthe.com/favicon500.png" rel="apple-touch-icon" />
 <link href="http://www.jessekrijthe.com/favicon500.png" rel="apple-touch-icon" sizes="76x76" />
 <link href="http://www.jessekrijthe.com/favicon500.png" rel="apple-touch-icon" sizes="120x120" />
@@ -23,10 +22,9 @@
     <nav class="group">
     <span></span><a href="/" style="color: black">Jesse Krijthe</a>
 		<a href="/"><img class="badge" src="/img/badge_1.png" alt="JK" style="top: -0.5em; height: 2em; width: 2em"></a></span>
-    <a href="/">Notes</a>
+    <a href="/articles">Notes</a>
 		<a href="/papers">Papers</a>
 		<a href="https://github.com/jkrijthe">Code</a>
-		<a href="/cv.pdf">CV</a>
 		<a href="/about">About</a>
 	</nav>
 </header>
@@ -35,50 +33,30 @@
           <h1>Hacking&#39;s Introduction to Probability and Inductive Logic</h1>
           <p class="subtitle">September 6, 2017   &middot; Reading Time: 5 minutes</p>
           <div class="post-content">
-            
-
-<p><img src="/img/hacking-inductive-logic.jpg" width="400" class="sidenote" /></p>
-
+            <p><img src="/img/hacking-inductive-logic.jpg" width="400" class="sidenote" /></p>
 <p>I recently read through Ian Hacking&rsquo;s &ldquo;Introduction to Probability and Inductive Logic&rdquo;.  I was interested in learning more about the philosophical basis of different ways of reasoning from experiences/past data. Having come across this book, I was hoping to find some discussion of these ideas, which are addressed in the final part of the book.</p>
-
 <p>The book starts by drawing the connections and differences between deductive logic (risk free: conclusion is true of premises are true) and inductive reasoning (not risk free: i.e. following an argument may lead to the wrong conclusion even if the premises are correct). An interesting analogy drawn is that in inductive reasoning:</p>
-
 <blockquote>
 <p>Criticizing the models is like challenging the premises. Criticizing the analysis of the model is like challenging the reasoning.</p>
 </blockquote>
-
 <p>The second part of the book offers a basic and well written introduction into probability theory. Not much new here, except that I learned that the first axiomatization of probability was by Christiaan Huygens in 1657. Part three discusses decision theory, where I like the use of paradoxes to present various points.</p>
-
 <p>In part four the  dichotomy of belief-type and frequency-type probability is introduced. Both types are then covered separately. When talking about frequency type probability and p-values, Hacking clearly differentiates between p-values and Neyman-Pearson hypothesis testing. Referring to Fisher, Hacking mentions:</p>
-
 <blockquote>
 <p>Above all, he thought that statistics and frequency-type probabilities were an essential tool for the communication of information among scientists working in fields where there may not be very good theories about nature, but where there is a great deal of data which needs to be understood.</p>
 </blockquote>
-
 <p>I though this was interesting, since, on the one hand, it seems to make sense, but on the other hand, it seems this is exactly what leads to replication problems caused by multiple testing and adaptive data analysis in fields that can not rely on &ldquo;very good theories&rdquo;.</p>
-
 <p>Hacking then mentions Neyman&rsquo;s argument against regarding confidence intervals and hypothesis testing testing as <em>inductive inference</em>, but only as corresponding to <em>inductive behaviour</em>: sticking to such methods is a policy that is correct x percent of the time, but says nothing about the current inference. Hacking explains Neyman&rsquo;s strong views on this point make sense in the historical context. The then new concept of the confidence interval was easily mistaken as a probability statement of an individual event occurring. There was also the danger that contemporaneous ideas like fiducial inference may have lead people to believe confidence intervals have a similar interpretation.</p>
-
 <h2 id="problem-of-induction">Problem of Induction</h2>
-
 <p>This discussion about inductive inference vs. inductive behaviour lead in the final part of the book. Personally, I found this to be by far the most interesting part of the book. Here Hume&rsquo;s problem of induction is introduced: one can not prove that the future will be related to the past without falling back on circular reasoning. To evade this problem of induction, Popper argues to use only conjectures, deductive reasoning and refutation instead of aiming for direct induction, and recognizing the fallibility of all current knowledge.</p>
-
 <p>Similarly, to evade the problem of induction, arguments can be made for both the belief-type framework and the frequency-type framework. In the belief-type framework, the claim is not that Bayesian probability updating leads to a valid inductive inference, but that the way we update the beliefs is rational. Hacking mentions this argument is not complete though: we still need to show that beliefs that are consistent at each point in time are also consistent when we move to the next time point (after seeing evidence). In other words, one needs to be &ldquo;true to one&rsquo;s former self&rdquo;, which is, as Hacking notes, a type of moral argument. This moralism comes back in the frequentist evasion of the problem of induction as well.</p>
-
 <p>In the frequentist-type framework, one evasion of the problem of induction is that offered by Neyman and discussed above, by only considering inductive behaviour and not inductive inference. Given our assumptions in the model, by using a particular strategy of making decisions, we will be correct most of the time. One issue is of course that in my particular given situation, this long run behaviour does not help me directly. I was especially interested by Peirce&rsquo;s arguments on dealing with this. Essentially, because the number of decisions in our life is always finite, it is hard to argue for long run probabilities unless we consider the collective behaviour of whole community, leading Peirce to morally sounding claim that &ldquo;Logic is rooted in the social principle&rdquo;. To contrast this with Hume&rsquo;s argument, Hacking concludes:</p>
-
 <blockquote>
-<p>Hume thought in a hugely individualistic way, of how <em>my</em> beliefs are formed by <em>my</em> experiences. Peirce thought in a collective and communal way, in terms of how <em>our</em> beliefs are formed on the basis of <em>our</em> inquiries&rdquo;</p>
+<p>Hume thought in a hugely individualistic way, of how <em>my</em> beliefs are formed by <em>my</em> experiences. Peirce thought in a collective and communal way, in terms of how <em>our</em> beliefs are formed on the basis of <em>our</em> inquiries&quot;</p>
 </blockquote>
-
 <h2 id="theory-of-applied-induction">Theory of Applied Induction</h2>
-
 <p>The book indeed offers an introduction into inductive logic. Overall, I think the book is worth checking out, particularly the first and final chapters (1-2, 20-22). What I would have loved to see, is examples that are more similar to those encountered in actual data analysis and how these relate to the principles of (evading) induction discussed in the book.</p>
-
 <p>In chapter 18, for instance, when discussing significance testing, there is no real discussion about multiple testing. While it is mentioned that a significant result is just one step of the scientific process, it is suggested that this results should then inform new directions of research. But without considering multiple testing and adaptive data analysis, such a strategy might lead us astray. What would therefore be great is the addition of some chapters that bridge the gap between the idealized examples and the messiness of the combination of adaptive and confirmatory data analysis we often deal with in the real world. A discussion of these issues and the role frameworks like <a href="https://errorstatistics.com">error statistical viewpoint</a>, <a href="http://www.stat.columbia.edu/~gelman/research/published/philosophy.pdf">hypothetico deductive Bayesianism</a> etc. might play here would be very interesting, but is perhaps beyond the scope of an introduction.</p>
-
 <p>On a related note, I, as Hacking and many others, aim to be statistically eclectic: use the method and inferential framework that best fits your question of interest. Unfortunately, while that sounds nice as a statement of intent, I have seen few people offer much advice on how to actually match methods to research goals.</p>
-
 <p>The book was an interesting gateway into thinking more about such problems.</p>
 
           </div>
@@ -87,14 +65,14 @@
     <footer>
   <div class="credits">
     <span style="color: grey">
-      <a href="mailto:j.krijthe@cs.ru.nl">mail</a> - 
+      <a href="mailto:j.h.krijthe@tudelft.nl">mail</a> - 
       <a href="https://www.twitter.com/jessekrijthe">twitter</a> - 
       <a href="https://github.com/jkrijthe">github</a> - 
       <a href="https://scholar.google.nl/citations?user=Rm7OUa0AAAAJ">scholar</a> - 
-      <a href="http://www.jessekrijthe.com/index.xml">rss</a>
+      <a href="/index.xml">rss</a>
       </span></br> </br>
     <span style="letter-spacing: 0.05em;">
-      &copy; 2015-2020
+      &copy; 2015-2021
       &nbsp;&nbsp;JESSE KRIJTHE
     </span></br> </br>
     <span>

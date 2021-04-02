@@ -1,46 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jesse Krijthe</title>
-    <link>http://www.jessekrijthe.com/categories/philosophy/</link>
+    <title>Notes on Jesse Krijthe</title>
+    <link>http://www.jessekrijthe.com/categories/Philosophy/</link>
     <description>Recent content on Jesse Krijthe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>jkrijthe@gmail.com (Jesse Krijthe)</managingEditor>
     <webMaster>jkrijthe@gmail.com (Jesse Krijthe)</webMaster>
-    <lastBuildDate>Fri, 31 Aug 2018 20:00:00 +0000</lastBuildDate>
-    <atom:link href="/categories/philosophy/" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Fri, 31 Aug 2018 20:00:00 +0000</lastBuildDate><atom:link href="http://www.jessekrijthe.com/categories/Philosophy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Peirce in the Garden</title>
       <link>http://www.jessekrijthe.com/articles/peirce-in-the-garden/</link>
       <pubDate>Fri, 31 Aug 2018 20:00:00 +0000</pubDate>
       <author>jkrijthe@gmail.com (Jesse Krijthe)</author>
       <guid>http://www.jessekrijthe.com/articles/peirce-in-the-garden/</guid>
-      <description>
-
-&lt;p&gt;After &lt;a href=&#34;http://www.jessekrijthe.com/articles/hacking-inductive-logic/&#34;&gt;reading Ian Hacking&amp;rsquo;s book&lt;/a&gt; I got interested in C.S. Peirce&amp;rsquo;s ideas on inductive inference. I had not heard of Peirce before. Another recent interest is Deborah Mayo&amp;rsquo;s error statistical philosopy. Luckily, Mayo turns out to be an adminirer of Peirce and wrote a paper connecting her arguments about so-called severe testing to Peirce&amp;rsquo;s ideas on self correcting science.&lt;/p&gt;
-
-&lt;p&gt;As I was not familiar with Peirce&amp;rsquo;s SCT theory and its criticisms, I can&amp;rsquo;t really comment on the validity of the nicely explained connection that Mayo is making. However, the following passage from Peirce stood out to me (emphasis mine):&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;This account of the rationale of induction is distinguished from others in that it has as its consequences two rules of inductive inference which are very frequently violated  namely, that the sample be (approximately) random and that the &lt;strong&gt;property being tested not be determined by the particular sample&lt;/strong&gt; &amp;mdash; i.e., predesignation.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;As Mayo notes below this passage &amp;ldquo;when the null hypothesis is tested on the same data that led it to be chosen for testing, it is well known, a spurious impression of a genuine effect easily result&amp;rdquo;. The way Peirce formulates it, however, reminded me of Loken &amp;amp; Gelman&amp;rsquo;s Garden of Forking paths paper.  Of course, Loken &amp;amp; Gelman&amp;rsquo;s claim is more subtle. They argue that during an analysis, the data at hand may inform the analysis that is done leading to one analysis path among many potential analysis paths. Had the data looked slightly different we might have made slightly different choices leading to a different analysis.&lt;/p&gt;
-
-&lt;p&gt;Peirce&amp;rsquo;s comment points out that in these cases the rationale for induction breaks down. Only under particular assumptions do conclusions make sense. At the very least, in Mayo&amp;rsquo;s terminology the tests become less &amp;lsquo;severe&amp;rsquo;. I find it interesting Peirce already notes this important point before Neyman-Pearson testing was invented, let alone as commonly applied and (mis-)used as it is today, before we strayed into the gardens of forking paths. The passage also reinforces the idea that it requires some thinking to connect the numbers that your favourite statistical programme calculates for you with what it is we have actually learned from the data.&lt;/p&gt;
-
-&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Mayo, D. G. (2005). Peircean Induction and the Error-Correcting Thesis Error-Correcting Thesis. Transactions of the Charles S. Peirce Society, 41(2), 299–319. &lt;a href=&#34;https://doi.org/10.1353/csp.2011.0039&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Mayo, D. G., &amp;amp; Spanos, A. (2011). Error Statistics. Philosophy of Statistics, 7, 153–198. &lt;a href=&#34;https://doi.org/10.1016/B978-0-444-51862-0.50005-8&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Gelman, A., &amp;amp; Loken, E. (2013). The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking” and the research hypothesis, 1–17. &lt;a href=&#34;https://doi.org/10.1037/a0037714&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
+      <description>After reading Ian Hacking&amp;rsquo;s book I got interested in C.S. Peirce&amp;rsquo;s ideas on inductive inference. I had not heard of Peirce before. Another recent interest is Deborah Mayo&amp;rsquo;s error statistical philosopy. Luckily, Mayo turns out to be an adminirer of Peirce and wrote a paper connecting her arguments about so-called severe testing to Peirce&amp;rsquo;s ideas on self correcting science.
+As I was not familiar with Peirce&amp;rsquo;s SCT theory and its criticisms, I can&amp;rsquo;t really comment on the validity of the nicely explained connection that Mayo is making.</description>
     </item>
     
     <item>
@@ -49,52 +25,8 @@
       <pubDate>Wed, 06 Sep 2017 20:00:00 +0000</pubDate>
       <author>jkrijthe@gmail.com (Jesse Krijthe)</author>
       <guid>http://www.jessekrijthe.com/articles/hacking-inductive-logic/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;http://www.jessekrijthe.com/img/hacking-inductive-logic.jpg&#34; width=&#34;400&#34; class=&#34;sidenote&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I recently read through Ian Hacking&amp;rsquo;s &amp;ldquo;Introduction to Probability and Inductive Logic&amp;rdquo;.  I was interested in learning more about the philosophical basis of different ways of reasoning from experiences/past data. Having come across this book, I was hoping to find some discussion of these ideas, which are addressed in the final part of the book.&lt;/p&gt;
-
-&lt;p&gt;The book starts by drawing the connections and differences between deductive logic (risk free: conclusion is true of premises are true) and inductive reasoning (not risk free: i.e. following an argument may lead to the wrong conclusion even if the premises are correct). An interesting analogy drawn is that in inductive reasoning:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Criticizing the models is like challenging the premises. Criticizing the analysis of the model is like challenging the reasoning.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The second part of the book offers a basic and well written introduction into probability theory. Not much new here, except that I learned that the first axiomatization of probability was by Christiaan Huygens in 1657. Part three discusses decision theory, where I like the use of paradoxes to present various points.&lt;/p&gt;
-
-&lt;p&gt;In part four the  dichotomy of belief-type and frequency-type probability is introduced. Both types are then covered separately. When talking about frequency type probability and p-values, Hacking clearly differentiates between p-values and Neyman-Pearson hypothesis testing. Referring to Fisher, Hacking mentions:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Above all, he thought that statistics and frequency-type probabilities were an essential tool for the communication of information among scientists working in fields where there may not be very good theories about nature, but where there is a great deal of data which needs to be understood.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I though this was interesting, since, on the one hand, it seems to make sense, but on the other hand, it seems this is exactly what leads to replication problems caused by multiple testing and adaptive data analysis in fields that can not rely on &amp;ldquo;very good theories&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;Hacking then mentions Neyman&amp;rsquo;s argument against regarding confidence intervals and hypothesis testing testing as &lt;em&gt;inductive inference&lt;/em&gt;, but only as corresponding to &lt;em&gt;inductive behaviour&lt;/em&gt;: sticking to such methods is a policy that is correct x percent of the time, but says nothing about the current inference. Hacking explains Neyman&amp;rsquo;s strong views on this point make sense in the historical context. The then new concept of the confidence interval was easily mistaken as a probability statement of an individual event occurring. There was also the danger that contemporaneous ideas like fiducial inference may have lead people to believe confidence intervals have a similar interpretation.&lt;/p&gt;
-
-&lt;h2 id=&#34;problem-of-induction&#34;&gt;Problem of Induction&lt;/h2&gt;
-
-&lt;p&gt;This discussion about inductive inference vs. inductive behaviour lead in the final part of the book. Personally, I found this to be by far the most interesting part of the book. Here Hume&amp;rsquo;s problem of induction is introduced: one can not prove that the future will be related to the past without falling back on circular reasoning. To evade this problem of induction, Popper argues to use only conjectures, deductive reasoning and refutation instead of aiming for direct induction, and recognizing the fallibility of all current knowledge.&lt;/p&gt;
-
-&lt;p&gt;Similarly, to evade the problem of induction, arguments can be made for both the belief-type framework and the frequency-type framework. In the belief-type framework, the claim is not that Bayesian probability updating leads to a valid inductive inference, but that the way we update the beliefs is rational. Hacking mentions this argument is not complete though: we still need to show that beliefs that are consistent at each point in time are also consistent when we move to the next time point (after seeing evidence). In other words, one needs to be &amp;ldquo;true to one&amp;rsquo;s former self&amp;rdquo;, which is, as Hacking notes, a type of moral argument. This moralism comes back in the frequentist evasion of the problem of induction as well.&lt;/p&gt;
-
-&lt;p&gt;In the frequentist-type framework, one evasion of the problem of induction is that offered by Neyman and discussed above, by only considering inductive behaviour and not inductive inference. Given our assumptions in the model, by using a particular strategy of making decisions, we will be correct most of the time. One issue is of course that in my particular given situation, this long run behaviour does not help me directly. I was especially interested by Peirce&amp;rsquo;s arguments on dealing with this. Essentially, because the number of decisions in our life is always finite, it is hard to argue for long run probabilities unless we consider the collective behaviour of whole community, leading Peirce to morally sounding claim that &amp;ldquo;Logic is rooted in the social principle&amp;rdquo;. To contrast this with Hume&amp;rsquo;s argument, Hacking concludes:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Hume thought in a hugely individualistic way, of how &lt;em&gt;my&lt;/em&gt; beliefs are formed by &lt;em&gt;my&lt;/em&gt; experiences. Peirce thought in a collective and communal way, in terms of how &lt;em&gt;our&lt;/em&gt; beliefs are formed on the basis of &lt;em&gt;our&lt;/em&gt; inquiries&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;theory-of-applied-induction&#34;&gt;Theory of Applied Induction&lt;/h2&gt;
-
-&lt;p&gt;The book indeed offers an introduction into inductive logic. Overall, I think the book is worth checking out, particularly the first and final chapters (1-2, 20-22). What I would have loved to see, is examples that are more similar to those encountered in actual data analysis and how these relate to the principles of (evading) induction discussed in the book.&lt;/p&gt;
-
-&lt;p&gt;In chapter 18, for instance, when discussing significance testing, there is no real discussion about multiple testing. While it is mentioned that a significant result is just one step of the scientific process, it is suggested that this results should then inform new directions of research. But without considering multiple testing and adaptive data analysis, such a strategy might lead us astray. What would therefore be great is the addition of some chapters that bridge the gap between the idealized examples and the messiness of the combination of adaptive and confirmatory data analysis we often deal with in the real world. A discussion of these issues and the role frameworks like &lt;a href=&#34;https://errorstatistics.com&#34;&gt;error statistical viewpoint&lt;/a&gt;, &lt;a href=&#34;http://www.stat.columbia.edu/~gelman/research/published/philosophy.pdf&#34;&gt;hypothetico deductive Bayesianism&lt;/a&gt; etc. might play here would be very interesting, but is perhaps beyond the scope of an introduction.&lt;/p&gt;
-
-&lt;p&gt;On a related note, I, as Hacking and many others, aim to be statistically eclectic: use the method and inferential framework that best fits your question of interest. Unfortunately, while that sounds nice as a statement of intent, I have seen few people offer much advice on how to actually match methods to research goals.&lt;/p&gt;
-
-&lt;p&gt;The book was an interesting gateway into thinking more about such problems.&lt;/p&gt;
-</description>
+      <description>I recently read through Ian Hacking&amp;rsquo;s &amp;ldquo;Introduction to Probability and Inductive Logic&amp;rdquo;. I was interested in learning more about the philosophical basis of different ways of reasoning from experiences/past data. Having come across this book, I was hoping to find some discussion of these ideas, which are addressed in the final part of the book.
+The book starts by drawing the connections and differences between deductive logic (risk free: conclusion is true of premises are true) and inductive reasoning (not risk free: i.</description>
     </item>
     
   </channel>

@@ -1,46 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jesse Krijthe</title>
+    <title>Notes on Jesse Krijthe</title>
     <link>http://www.jessekrijthe.com/</link>
     <description>Recent content on Jesse Krijthe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>jkrijthe@gmail.com (Jesse Krijthe)</managingEditor>
     <webMaster>jkrijthe@gmail.com (Jesse Krijthe)</webMaster>
-    <lastBuildDate>Fri, 31 Aug 2018 20:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Fri, 31 Aug 2018 20:00:00 +0000</lastBuildDate><atom:link href="http://www.jessekrijthe.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Peirce in the Garden</title>
       <link>http://www.jessekrijthe.com/articles/peirce-in-the-garden/</link>
       <pubDate>Fri, 31 Aug 2018 20:00:00 +0000</pubDate>
       <author>jkrijthe@gmail.com (Jesse Krijthe)</author>
       <guid>http://www.jessekrijthe.com/articles/peirce-in-the-garden/</guid>
-      <description>
-
-&lt;p&gt;After &lt;a href=&#34;http://www.jessekrijthe.com/articles/hacking-inductive-logic/&#34;&gt;reading Ian Hacking&amp;rsquo;s book&lt;/a&gt; I got interested in C.S. Peirce&amp;rsquo;s ideas on inductive inference. I had not heard of Peirce before. Another recent interest is Deborah Mayo&amp;rsquo;s error statistical philosopy. Luckily, Mayo turns out to be an adminirer of Peirce and wrote a paper connecting her arguments about so-called severe testing to Peirce&amp;rsquo;s ideas on self correcting science.&lt;/p&gt;
-
-&lt;p&gt;As I was not familiar with Peirce&amp;rsquo;s SCT theory and its criticisms, I can&amp;rsquo;t really comment on the validity of the nicely explained connection that Mayo is making. However, the following passage from Peirce stood out to me (emphasis mine):&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;This account of the rationale of induction is distinguished from others in that it has as its consequences two rules of inductive inference which are very frequently violated  namely, that the sample be (approximately) random and that the &lt;strong&gt;property being tested not be determined by the particular sample&lt;/strong&gt; &amp;mdash; i.e., predesignation.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;As Mayo notes below this passage &amp;ldquo;when the null hypothesis is tested on the same data that led it to be chosen for testing, it is well known, a spurious impression of a genuine effect easily result&amp;rdquo;. The way Peirce formulates it, however, reminded me of Loken &amp;amp; Gelman&amp;rsquo;s Garden of Forking paths paper.  Of course, Loken &amp;amp; Gelman&amp;rsquo;s claim is more subtle. They argue that during an analysis, the data at hand may inform the analysis that is done leading to one analysis path among many potential analysis paths. Had the data looked slightly different we might have made slightly different choices leading to a different analysis.&lt;/p&gt;
-
-&lt;p&gt;Peirce&amp;rsquo;s comment points out that in these cases the rationale for induction breaks down. Only under particular assumptions do conclusions make sense. At the very least, in Mayo&amp;rsquo;s terminology the tests become less &amp;lsquo;severe&amp;rsquo;. I find it interesting Peirce already notes this important point before Neyman-Pearson testing was invented, let alone as commonly applied and (mis-)used as it is today, before we strayed into the gardens of forking paths. The passage also reinforces the idea that it requires some thinking to connect the numbers that your favourite statistical programme calculates for you with what it is we have actually learned from the data.&lt;/p&gt;
-
-&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Mayo, D. G. (2005). Peircean Induction and the Error-Correcting Thesis Error-Correcting Thesis. Transactions of the Charles S. Peirce Society, 41(2), 299–319. &lt;a href=&#34;https://doi.org/10.1353/csp.2011.0039&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Mayo, D. G., &amp;amp; Spanos, A. (2011). Error Statistics. Philosophy of Statistics, 7, 153–198. &lt;a href=&#34;https://doi.org/10.1016/B978-0-444-51862-0.50005-8&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Gelman, A., &amp;amp; Loken, E. (2013). The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking” and the research hypothesis, 1–17. &lt;a href=&#34;https://doi.org/10.1037/a0037714&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
+      <description>After reading Ian Hacking&amp;rsquo;s book I got interested in C.S. Peirce&amp;rsquo;s ideas on inductive inference. I had not heard of Peirce before. Another recent interest is Deborah Mayo&amp;rsquo;s error statistical philosopy. Luckily, Mayo turns out to be an adminirer of Peirce and wrote a paper connecting her arguments about so-called severe testing to Peirce&amp;rsquo;s ideas on self correcting science.
+As I was not familiar with Peirce&amp;rsquo;s SCT theory and its criticisms, I can&amp;rsquo;t really comment on the validity of the nicely explained connection that Mayo is making.</description>
     </item>
     
     <item>
@@ -49,31 +25,8 @@
       <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
       <author>jkrijthe@gmail.com (Jesse Krijthe)</author>
       <guid>http://www.jessekrijthe.com/articles/phd-defense/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://www.jessekrijthe.com/img/thesis-stack.jpg&#34; width=&#34;400&#34; class=&#34;sidenote&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I defended my PhD thesis! The thesis &amp;ldquo;Robust Semi-supervised Learning: Projections, Limits &amp;amp; Constraints&amp;rdquo; is about exploring the limits of the guarantees one can give for whether a semi-supervised learner will outperform its supervised counterpart. In other words: the limits of the usefulness of additional unlabeled data in a supervised learning setting.&lt;/p&gt;
-
-&lt;p&gt;While it seems to make sense you would want such guarantees before using semi-supervised methods to incorporate unlabeled data into the learning process, we show that without additional assumptions, for many supervised learners, semi-supervised alternatives with strict non-degradation guarantees can not be constructed. Perhaps surprisingly, however, for some supervised learners/loss functions, semi-supervised methods can be constructed that give strict non-degradation guarantees. For details of how these concepts (guarantees, performance) were defined, please see the thesis itself. After thinking about this topic for such a long time, I&amp;rsquo;m quite proud of how the thesis turned out. You can find it &lt;a href=&#34;http://www.jessekrijthe.com/thesis.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;(As an aside: the thesis is typeset using R&amp;rsquo;s knitr package and Latex. You can find the source code to generate figures and text &lt;a href=&#34;https://github.com/jkrijthe/RobustSSL&#34;&gt;here&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;As part of the thesis defense, at most Dutch universities, you are expected to include a set of propositions, some pertaining to the core claims made in the thesis, some about your field of research and some about science/society in general. These were my propositions included in the thesis:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Semi-supervised learning without additional assumptions, beyond those inherent in the supervised classifier, is possible.&lt;/li&gt;
-&lt;li&gt;One can guarantee performance improvement of some semi-supervised learners over their supervised counterparts.&lt;/li&gt;
-&lt;li&gt;Truly safe semi-supervised learning is impossible for a large class of commonly used classifiers.&lt;/li&gt;
-&lt;li&gt;Considering a classification method&amp;rsquo;s performance in terms of the actual loss it minimizes at train time gives useful insights.&lt;/li&gt;
-&lt;li&gt;There is a limit to the usefulness of asymptotic results.&lt;/li&gt;
-&lt;li&gt;Rather than hoping for practice to better correspond to current statistical methods, we need new methods that better match the adaptive way statistics is used in practice.&lt;/li&gt;
-&lt;li&gt;The focus in statistical practice on hypothesis testing is feeding society&amp;rsquo;s appetite to clear cut answers in a reality where none are available.&lt;/li&gt;
-&lt;li&gt;Data is uninteresting without a model, while a model can be interesting without data.&lt;/li&gt;
-&lt;li&gt;Publishers have become a dispensible part of scientific communication.&lt;/li&gt;
-&lt;li&gt;Our unwillingness or inability to define our actual goals, combined with a need for certainty, lead to surrogate measures (e.g. GDP, H-index, wealth, `likes&amp;rsquo; on social media) that are actively harmful.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;I again want to thank my opposition committee: Ludmila Kuncheva, Peter Grunwald, Jelle Goeman, Erik van den Akker and Tom Heskes for the insightful questions that made for a super enjoyable discussion.&lt;/p&gt;
-</description>
+      <description>I defended my PhD thesis! The thesis &amp;ldquo;Robust Semi-supervised Learning: Projections, Limits &amp;amp; Constraints&amp;rdquo; is about exploring the limits of the guarantees one can give for whether a semi-supervised learner will outperform its supervised counterpart. In other words: the limits of the usefulness of additional unlabeled data in a supervised learning setting.
+While it seems to make sense you would want such guarantees before using semi-supervised methods to incorporate unlabeled data into the learning process, we show that without additional assumptions, for many supervised learners, semi-supervised alternatives with strict non-degradation guarantees can not be constructed.</description>
     </item>
     
     <item>
@@ -82,52 +35,8 @@
       <pubDate>Wed, 06 Sep 2017 20:00:00 +0000</pubDate>
       <author>jkrijthe@gmail.com (Jesse Krijthe)</author>
       <guid>http://www.jessekrijthe.com/articles/hacking-inductive-logic/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;http://www.jessekrijthe.com/img/hacking-inductive-logic.jpg&#34; width=&#34;400&#34; class=&#34;sidenote&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I recently read through Ian Hacking&amp;rsquo;s &amp;ldquo;Introduction to Probability and Inductive Logic&amp;rdquo;.  I was interested in learning more about the philosophical basis of different ways of reasoning from experiences/past data. Having come across this book, I was hoping to find some discussion of these ideas, which are addressed in the final part of the book.&lt;/p&gt;
-
-&lt;p&gt;The book starts by drawing the connections and differences between deductive logic (risk free: conclusion is true of premises are true) and inductive reasoning (not risk free: i.e. following an argument may lead to the wrong conclusion even if the premises are correct). An interesting analogy drawn is that in inductive reasoning:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Criticizing the models is like challenging the premises. Criticizing the analysis of the model is like challenging the reasoning.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The second part of the book offers a basic and well written introduction into probability theory. Not much new here, except that I learned that the first axiomatization of probability was by Christiaan Huygens in 1657. Part three discusses decision theory, where I like the use of paradoxes to present various points.&lt;/p&gt;
-
-&lt;p&gt;In part four the  dichotomy of belief-type and frequency-type probability is introduced. Both types are then covered separately. When talking about frequency type probability and p-values, Hacking clearly differentiates between p-values and Neyman-Pearson hypothesis testing. Referring to Fisher, Hacking mentions:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Above all, he thought that statistics and frequency-type probabilities were an essential tool for the communication of information among scientists working in fields where there may not be very good theories about nature, but where there is a great deal of data which needs to be understood.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I though this was interesting, since, on the one hand, it seems to make sense, but on the other hand, it seems this is exactly what leads to replication problems caused by multiple testing and adaptive data analysis in fields that can not rely on &amp;ldquo;very good theories&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;Hacking then mentions Neyman&amp;rsquo;s argument against regarding confidence intervals and hypothesis testing testing as &lt;em&gt;inductive inference&lt;/em&gt;, but only as corresponding to &lt;em&gt;inductive behaviour&lt;/em&gt;: sticking to such methods is a policy that is correct x percent of the time, but says nothing about the current inference. Hacking explains Neyman&amp;rsquo;s strong views on this point make sense in the historical context. The then new concept of the confidence interval was easily mistaken as a probability statement of an individual event occurring. There was also the danger that contemporaneous ideas like fiducial inference may have lead people to believe confidence intervals have a similar interpretation.&lt;/p&gt;
-
-&lt;h2 id=&#34;problem-of-induction&#34;&gt;Problem of Induction&lt;/h2&gt;
-
-&lt;p&gt;This discussion about inductive inference vs. inductive behaviour lead in the final part of the book. Personally, I found this to be by far the most interesting part of the book. Here Hume&amp;rsquo;s problem of induction is introduced: one can not prove that the future will be related to the past without falling back on circular reasoning. To evade this problem of induction, Popper argues to use only conjectures, deductive reasoning and refutation instead of aiming for direct induction, and recognizing the fallibility of all current knowledge.&lt;/p&gt;
-
-&lt;p&gt;Similarly, to evade the problem of induction, arguments can be made for both the belief-type framework and the frequency-type framework. In the belief-type framework, the claim is not that Bayesian probability updating leads to a valid inductive inference, but that the way we update the beliefs is rational. Hacking mentions this argument is not complete though: we still need to show that beliefs that are consistent at each point in time are also consistent when we move to the next time point (after seeing evidence). In other words, one needs to be &amp;ldquo;true to one&amp;rsquo;s former self&amp;rdquo;, which is, as Hacking notes, a type of moral argument. This moralism comes back in the frequentist evasion of the problem of induction as well.&lt;/p&gt;
-
-&lt;p&gt;In the frequentist-type framework, one evasion of the problem of induction is that offered by Neyman and discussed above, by only considering inductive behaviour and not inductive inference. Given our assumptions in the model, by using a particular strategy of making decisions, we will be correct most of the time. One issue is of course that in my particular given situation, this long run behaviour does not help me directly. I was especially interested by Peirce&amp;rsquo;s arguments on dealing with this. Essentially, because the number of decisions in our life is always finite, it is hard to argue for long run probabilities unless we consider the collective behaviour of whole community, leading Peirce to morally sounding claim that &amp;ldquo;Logic is rooted in the social principle&amp;rdquo;. To contrast this with Hume&amp;rsquo;s argument, Hacking concludes:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Hume thought in a hugely individualistic way, of how &lt;em&gt;my&lt;/em&gt; beliefs are formed by &lt;em&gt;my&lt;/em&gt; experiences. Peirce thought in a collective and communal way, in terms of how &lt;em&gt;our&lt;/em&gt; beliefs are formed on the basis of &lt;em&gt;our&lt;/em&gt; inquiries&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;theory-of-applied-induction&#34;&gt;Theory of Applied Induction&lt;/h2&gt;
-
-&lt;p&gt;The book indeed offers an introduction into inductive logic. Overall, I think the book is worth checking out, particularly the first and final chapters (1-2, 20-22). What I would have loved to see, is examples that are more similar to those encountered in actual data analysis and how these relate to the principles of (evading) induction discussed in the book.&lt;/p&gt;
-
-&lt;p&gt;In chapter 18, for instance, when discussing significance testing, there is no real discussion about multiple testing. While it is mentioned that a significant result is just one step of the scientific process, it is suggested that this results should then inform new directions of research. But without considering multiple testing and adaptive data analysis, such a strategy might lead us astray. What would therefore be great is the addition of some chapters that bridge the gap between the idealized examples and the messiness of the combination of adaptive and confirmatory data analysis we often deal with in the real world. A discussion of these issues and the role frameworks like &lt;a href=&#34;https://errorstatistics.com&#34;&gt;error statistical viewpoint&lt;/a&gt;, &lt;a href=&#34;http://www.stat.columbia.edu/~gelman/research/published/philosophy.pdf&#34;&gt;hypothetico deductive Bayesianism&lt;/a&gt; etc. might play here would be very interesting, but is perhaps beyond the scope of an introduction.&lt;/p&gt;
-
-&lt;p&gt;On a related note, I, as Hacking and many others, aim to be statistically eclectic: use the method and inferential framework that best fits your question of interest. Unfortunately, while that sounds nice as a statement of intent, I have seen few people offer much advice on how to actually match methods to research goals.&lt;/p&gt;
-
-&lt;p&gt;The book was an interesting gateway into thinking more about such problems.&lt;/p&gt;
-</description>
+      <description>I recently read through Ian Hacking&amp;rsquo;s &amp;ldquo;Introduction to Probability and Inductive Logic&amp;rdquo;. I was interested in learning more about the philosophical basis of different ways of reasoning from experiences/past data. Having come across this book, I was hoping to find some discussion of these ideas, which are addressed in the final part of the book.
+The book starts by drawing the connections and differences between deductive logic (risk free: conclusion is true of premises are true) and inductive reasoning (not risk free: i.</description>
     </item>
     
     <item>
@@ -136,18 +45,8 @@
       <pubDate>Tue, 09 May 2017 17:09:13 +0000</pubDate>
       <author>jkrijthe@gmail.com (Jesse Krijthe)</author>
       <guid>http://www.jessekrijthe.com/articles/eurovision-betting-prob/</guid>
-      <description>&lt;p&gt;This week marks the &lt;a href=&#34;https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2017&#34;&gt;62nd edition of the Eurovision Song Contest&lt;/a&gt;: an annual event where countries from across Europe and beyond (Australia is competing as well) come together to perform 3 minute pop songs.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/c/Eurovision2010&#34;&gt;Predicting the outcome&lt;/a&gt; of the contest poses an interesting statistical problem since the rules of the comeptition have been relatively stable over the years, so there is some data to base future predictions on, yet there is only a single contest every year, making it easy to overtrain a model on the limited data available.&lt;/p&gt;
-&lt;p&gt;Perhaps the most commonly reported predictions by the media are those implied by the odds set by bookmakers. In this note, I want to explore what probabilities the bookmakers’ odds correspond to for this year’s competition, as well as how well these probabilities predicted the winner in recent years.&lt;/p&gt;
-&lt;p&gt;Let’s start with the most important part, this year’s probabilities:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.jessekrijthe.com/articles/eurovision-betting-prob_files/figure-html/current-odds-1.png&#34; width=&#34;576&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Italy is the clear favourite. As we’ll see below, the markets are relatively confident in this year’s favourite actually winning, compared to the previous four years.&lt;/p&gt;
-&lt;p&gt;A short note on the methodology: I converted the decimal odds reported by the bookmakers to probabilities and then divided these by the total probability assigned by a bookie to all the countries combined. The total probability is bigger than one, which reflect the advantage the bookmakers have over their customers. The division by this total is a crude way to correct for this advantage. The probabilities reported here correspond to the median probability of all the bookmakers I had data for.&lt;/p&gt;
-&lt;p&gt;These are the probabilities (close to) the monday before the competition in previous years:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://www.jessekrijthe.com/articles/eurovision-betting-prob_files/figure-html/previous-odds-1.png&#34; width=&#34;350px&#34; /&gt;&lt;img src=&#34;http://www.jessekrijthe.com/articles/eurovision-betting-prob_files/figure-html/previous-odds-2.png&#34; width=&#34;350px&#34; /&gt;&lt;img src=&#34;http://www.jessekrijthe.com/articles/eurovision-betting-prob_files/figure-html/previous-odds-3.png&#34; width=&#34;350px&#34; /&gt;&lt;img src=&#34;http://www.jessekrijthe.com/articles/eurovision-betting-prob_files/figure-html/previous-odds-4.png&#34; width=&#34;350px&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;In 2014 the bookmakers were clearly off, although it is hard to say whether this is bad, given the sample of only 4 years. In the other three years, the winner was assigned a reasonably high probability. It is interesting how skewed towards Italy the probabilities are this year. In previous years, there was usually a second country with a reasonably high probability. Whether this reflects a clear preference by the European voters, we’ll have to see during the final this Saturday.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Update after the contest:&lt;/em&gt; Portugal won, which, given the large probability placed on an Italy win by the bookmakers, does not help increase confidence in the hypothesis that these probabilities are properly calibrated.&lt;/p&gt;
-</description>
+      <description>This week marks the 62nd edition of the Eurovision Song Contest: an annual event where countries from across Europe and beyond (Australia is competing as well) come together to perform 3 minute pop songs.
+Predicting the outcome of the contest poses an interesting statistical problem since the rules of the competition have been relatively stable over the years, so there is some data to base future predictions on, yet there is only a single contest every year, making it easy to overtrain a model on the limited data available.</description>
     </item>
     
     <item>
@@ -156,44 +55,8 @@
       <pubDate>Wed, 05 Aug 2015 13:09:13 +0000</pubDate>
       <author>jkrijthe@gmail.com (Jesse Krijthe)</author>
       <guid>http://www.jessekrijthe.com/articles/icml2015/</guid>
-      <description>&lt;p&gt;This post is just to remind myself of some of my favourite posters/presentations that I saw while attending ICML. I have undoubtably missed a lot of interesting stuff. If you have any particular suggestions, please let me know!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://jmlr.org/proceedings/papers/v37/betancourt15.pdf&#34;&gt;The Fundamental Incompatibility of Scalable Hamiltonian Monte Carlo and Naive Data Subsampling&lt;/a&gt;&lt;br/&gt;
-&lt;em&gt;Michael Betancourt&lt;/em&gt;&lt;br/&gt;
-I liked the topic and the kind of analysis and I especially liked his clear style of presentation. Moreover, there was quite a lively discussion about whether this incompatibility is actually a problem, or whether it focussed too much on only the bias that is introduced by naive subsampling.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://jmlr.org/proceedings/papers/v37/salimans15.pdf&#34;&gt;Markov Chain Monte Carlo and Variational Inference: Bridging the Gap&lt;/a&gt;&lt;br/&gt;
-&lt;em&gt;Tim Salimans, Diederik Kingma, Max Welling&lt;/em&gt;&lt;br/&gt;
-The presentation and poster were a bit hard for me to follow but the problem seems important.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://jmlr.org/proceedings/papers/v37/lopez-paz15.pdf&#34;&gt;Towards a Learning Theory of Cause-Effect Inference&lt;/a&gt;&lt;br/&gt;
-&lt;em&gt;David Lopez-Paz, Krikamol Muandet, Bernhard Schölkopf, Iliya Tolstikhin&lt;/em&gt;&lt;br/&gt;
-Interesting use of Maximum Mean Discrepancy in a clear analysis of an important problem.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://jmlr.org/proceedings/papers/v37/blundell15.pdf&#34;&gt;Weight Uncertainty in Neural Network&lt;/a&gt;&lt;br/&gt;
-&lt;em&gt;Charles Blundell, Julien Cornebise, Koray Kavukcuoglu, Daan Wierstra&lt;/em&gt;&lt;br/&gt;
-I have not looked into how exactly their approach is different from previous attempts at incorporating weight uncertainty, but the updates for the weight parameters seemed surprisingly simple.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://jmlr.org/proceedings/papers/v37/ramaswamy15.pdf&#34;&gt;Convex Calibrated Surrogates for Hierarchical Classification&lt;/a&gt;&lt;br/&gt;
-&lt;em&gt;Harish Ramaswamy, Ambuj Tewari, Shivani Agarwal&lt;/em&gt;&lt;br/&gt;
-I like this idea of classification calibrated losses and this seems like an interesting extension to hierarchical loss functions.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://jmlr.org/proceedings/papers/v37/narasimhana15.pdf&#34;&gt;Optimizing Non-decomposable Performance Measures: A Tale of Two Classes&lt;/a&gt;&lt;br/&gt;
-&lt;em&gt;Harikrishna Narasimhan, Purushottam Kar, Prateek Jain&lt;/em&gt;&lt;br/&gt;
-The authors consider functions of the true positive rate and true negative rate and come up with two classes of such functions and an approach to maximize them. The one class includes measures like the G-mean and the H-mean, while the other class includes the F-measure and Jaccard coefficient.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://jmlr.org/proceedings/papers/v37/jiao15.pdf&#34;&gt;The Kendall and Mallows Kernels for Permutations&lt;/a&gt;&lt;br/&gt;
-&lt;em&gt;Yunlong Jiao &amp;amp; Jean-Philippe Vert&lt;/em&gt;&lt;br/&gt;
-The authors consider the problem of learning from permutations or rankings instead of vector of real valued numbers. In particular, they construct PSD kernels based on Kendall&amp;rsquo;s coefficient and Mallows kernel in order to apply kernel methods to the problem.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://arxiv.org/pdf/1501.05427v3&#34;&gt;Enabling scalable stochastic gradient-based inference for Gaussian processes by employing the Unbiased LInear System SolvEr (ULISSE)&lt;/a&gt;&lt;br/&gt;
-&lt;em&gt;Maurizio Filippone &amp;amp; Raphael Engler&lt;/em&gt;&lt;br/&gt;
-This seems to tackle the important problem exact quantification of uncertainty in covariance parameters for gaussian processes with seemingly few constraints on the number type of covariance function.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://jmlr.org/proceedings/papers/v37/hugginsb15.pdf&#34;&gt;Risk and Regret of Hierarchical Bayesian Learners&lt;/a&gt;&lt;br/&gt;
-&lt;em&gt;Jonathan H. Huggins &amp;amp; Joshua B. Tenenbaum&lt;/em&gt;&lt;br/&gt;
-Again, an interesting analysis of an important problem, although it will take me some more time to study the actual result.&lt;/p&gt;
-</description>
+      <description>This post is just to remind myself of some of my favourite posters/presentations that I saw while attending ICML. I have undoubtably missed a lot of interesting stuff. If you have any particular suggestions, please let me know!
+The Fundamental Incompatibility of Scalable Hamiltonian Monte Carlo and Naive Data Subsampling Michael Betancourt I liked the topic and the kind of analysis and I especially liked his clear style of presentation. Moreover, there was quite a lively discussion about whether this incompatibility is actually a problem, or whether it focussed too much on only the bias that is introduced by naive subsampling.</description>
     </item>
     
   </channel>
