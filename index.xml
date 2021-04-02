@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes on Jesse Krijthe</title>
-    <link>http://www.jessekrijthe.com/</link>
+    <link>https://www.jessekrijthe.com/</link>
     <description>Recent content on Jesse Krijthe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>jkrijthe@gmail.com (Jesse Krijthe)</managingEditor>
     <webMaster>jkrijthe@gmail.com (Jesse Krijthe)</webMaster>
-    <lastBuildDate>Fri, 31 Aug 2018 20:00:00 +0000</lastBuildDate><atom:link href="http://www.jessekrijthe.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Aug 2018 20:00:00 +0000</lastBuildDate><atom:link href="https://www.jessekrijthe.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Peirce in the Garden</title>
-      <link>http://www.jessekrijthe.com/articles/peirce-in-the-garden/</link>
+      <link>https://www.jessekrijthe.com/articles/peirce-in-the-garden/</link>
       <pubDate>Fri, 31 Aug 2018 20:00:00 +0000</pubDate>
       <author>jkrijthe@gmail.com (Jesse Krijthe)</author>
-      <guid>http://www.jessekrijthe.com/articles/peirce-in-the-garden/</guid>
+      <guid>https://www.jessekrijthe.com/articles/peirce-in-the-garden/</guid>
       <description>After reading Ian Hacking&amp;rsquo;s book I got interested in C.S. Peirce&amp;rsquo;s ideas on inductive inference. I had not heard of Peirce before. Another recent interest is Deborah Mayo&amp;rsquo;s error statistical philosopy. Luckily, Mayo turns out to be an adminirer of Peirce and wrote a paper connecting her arguments about so-called severe testing to Peirce&amp;rsquo;s ideas on self correcting science.
 As I was not familiar with Peirce&amp;rsquo;s SCT theory and its criticisms, I can&amp;rsquo;t really comment on the validity of the nicely explained connection that Mayo is making.</description>
     </item>
     
     <item>
       <title>PhD Defense</title>
-      <link>http://www.jessekrijthe.com/articles/phd-defense/</link>
+      <link>https://www.jessekrijthe.com/articles/phd-defense/</link>
       <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
       <author>jkrijthe@gmail.com (Jesse Krijthe)</author>
-      <guid>http://www.jessekrijthe.com/articles/phd-defense/</guid>
+      <guid>https://www.jessekrijthe.com/articles/phd-defense/</guid>
       <description>I defended my PhD thesis! The thesis &amp;ldquo;Robust Semi-supervised Learning: Projections, Limits &amp;amp; Constraints&amp;rdquo; is about exploring the limits of the guarantees one can give for whether a semi-supervised learner will outperform its supervised counterpart. In other words: the limits of the usefulness of additional unlabeled data in a supervised learning setting.
 While it seems to make sense you would want such guarantees before using semi-supervised methods to incorporate unlabeled data into the learning process, we show that without additional assumptions, for many supervised learners, semi-supervised alternatives with strict non-degradation guarantees can not be constructed.</description>
     </item>
     
     <item>
       <title>Hacking&#39;s Introduction to Probability and Inductive Logic</title>
-      <link>http://www.jessekrijthe.com/articles/hacking-inductive-logic/</link>
+      <link>https://www.jessekrijthe.com/articles/hacking-inductive-logic/</link>
       <pubDate>Wed, 06 Sep 2017 20:00:00 +0000</pubDate>
       <author>jkrijthe@gmail.com (Jesse Krijthe)</author>
-      <guid>http://www.jessekrijthe.com/articles/hacking-inductive-logic/</guid>
+      <guid>https://www.jessekrijthe.com/articles/hacking-inductive-logic/</guid>
       <description>I recently read through Ian Hacking&amp;rsquo;s &amp;ldquo;Introduction to Probability and Inductive Logic&amp;rdquo;. I was interested in learning more about the philosophical basis of different ways of reasoning from experiences/past data. Having come across this book, I was hoping to find some discussion of these ideas, which are addressed in the final part of the book.
 The book starts by drawing the connections and differences between deductive logic (risk free: conclusion is true of premises are true) and inductive reasoning (not risk free: i.</description>
     </item>
     
     <item>
       <title>Eurovision Winning Probabilities</title>
-      <link>http://www.jessekrijthe.com/articles/eurovision-betting-prob/</link>
+      <link>https://www.jessekrijthe.com/articles/eurovision-betting-prob/</link>
       <pubDate>Tue, 09 May 2017 17:09:13 +0000</pubDate>
       <author>jkrijthe@gmail.com (Jesse Krijthe)</author>
-      <guid>http://www.jessekrijthe.com/articles/eurovision-betting-prob/</guid>
+      <guid>https://www.jessekrijthe.com/articles/eurovision-betting-prob/</guid>
       <description>This week marks the 62nd edition of the Eurovision Song Contest: an annual event where countries from across Europe and beyond (Australia is competing as well) come together to perform 3 minute pop songs.
 Predicting the outcome of the contest poses an interesting statistical problem since the rules of the competition have been relatively stable over the years, so there is some data to base future predictions on, yet there is only a single contest every year, making it easy to overtrain a model on the limited data available.</description>
     </item>
     
     <item>
       <title>Favourite Work at ICML 2015</title>
-      <link>http://www.jessekrijthe.com/articles/icml2015/</link>
+      <link>https://www.jessekrijthe.com/articles/icml2015/</link>
       <pubDate>Wed, 05 Aug 2015 13:09:13 +0000</pubDate>
       <author>jkrijthe@gmail.com (Jesse Krijthe)</author>
-      <guid>http://www.jessekrijthe.com/articles/icml2015/</guid>
+      <guid>https://www.jessekrijthe.com/articles/icml2015/</guid>
       <description>This post is just to remind myself of some of my favourite posters/presentations that I saw while attending ICML. I have undoubtably missed a lot of interesting stuff. If you have any particular suggestions, please let me know!
 The Fundamental Incompatibility of Scalable Hamiltonian Monte Carlo and Naive Data Subsampling Michael Betancourt I liked the topic and the kind of analysis and I especially liked his clear style of presentation. Moreover, there was quite a lively discussion about whether this incompatibility is actually a problem, or whether it focussed too much on only the bias that is introduced by naive subsampling.</description>
     </item>
